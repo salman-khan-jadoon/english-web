@@ -1,0 +1,50 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 15px;
+    padding: 10px;
+    line-height: 1.6;
+    background-color: lightblue;
+    
+}
+header{
+    background-color: gold;
+    padding: 10px 0;
+}
+nav a{
+    text-decoration:none ;
+    color: blue;
+    font-size: 25px;
+    margin: 105px;
+}
+
+h1{
+    text-align: center;
+    background-color:lightgreen;
+    padding: 40auto;
+    color:whitesmoke;
+    font-size:44px;
+    font-kerning: auto;
+    line-height: 100px;
+}
+
+h2{
+    text-align: center;
+    background-color:lightgreen;
+    padding: 40auto;
+    color:whitesmoke;
+    font-size:44px;
+    font-kerning: auto;
+    line-height: 100px;
+}
+h3{
+    display: inline-block;
+    background-color: aqua;
+    color: blue;
+    margin-left: 320px;
+
+}
+#asd{
+    margin-left: 50px;
+    background-color: rgb(8, 165, 68);
+    color: brown;
+}
